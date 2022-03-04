@@ -1,4 +1,4 @@
-### Hi there 👋, i´m Cheuk Kelly Ng Pante
+### Hi there, I´m Cheuk Kelly Ng Pante👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=feichay10&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </a>
