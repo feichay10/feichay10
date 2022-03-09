@@ -7,7 +7,7 @@
 </a>
 
 </br></br>
-- 🏛️ I’m currently studying Computer Engeneering on Universidad de La Laguna 
+- 🏛️ I’m currently studying Computer Engineering on Universidad de La Laguna 
 - 🌱 I’m currently improving my knowledge in computer architecture and system and network administration
 </br></br>
 
