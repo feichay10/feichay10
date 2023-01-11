@@ -31,6 +31,7 @@
 <code><img width="40" src="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/18799587/image/medium-888dcf9eaba44519efb88612bc29e64c.png"></code>
 <code><img width="40" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/15/ab137082ad40cabb23d4baf1500ea6/FPGA-LOGO.png?auto=format%2Ccompress&dpr=1"></code>
 <code><img width="40" src="https://cdn-icons-png.flaticon.com/512/919/919842.png"></code>
+<code><img width="40" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png"></code>
 </p>
 
 ## 🌎 Social Media
