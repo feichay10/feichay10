@@ -20,7 +20,9 @@
 <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>  
 <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></code> 
 <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg/1200px-Adobe_Photoshop_Lightroom_Classic_CC_icon.svg.png"></code>
-<code><img width="40" src="https://www.gns3.com/assets/custom/gns3/images/logo-colour.png"></code></p>
+<code><img width="40" src="https://www.gns3.com/assets/custom/gns3/images/logo-colour.png"></code>
+<code><img width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+</p>
 
 ## 👨‍💻 Languages 
 <p align="center">
@@ -32,6 +34,7 @@
 <code><img width="40" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/15/ab137082ad40cabb23d4baf1500ea6/FPGA-LOGO.png?auto=format%2Ccompress&dpr=1"></code>
 <code><img width="40" src="https://cdn-icons-png.flaticon.com/512/919/919842.png"></code>
 <code><img width="40" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png"></code>
+<code><img width="50" src="https://user-images.githubusercontent.com/72381464/215694197-a1d3b29c-418b-4b57-ba3d-98d57386b963.png"></code>
 </p>
 
 ## 🌎 Social Media
