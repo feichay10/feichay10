@@ -28,7 +28,7 @@
 <p align="center">
 <code><img width="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
 <code><img width="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"></code>
-<code><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+<code><img width="96" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1200px-Gnu-bash-logo.svg.png"></code>
 <code><img width="40" src="https://eirikpre.gallerycdn.vsassets.io/extensions/eirikpre/systemverilog/0.11.3/1612434073897/Microsoft.VisualStudio.Services.Icons.Default"></code>
 <code><img width="40" src="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/18799587/image/medium-888dcf9eaba44519efb88612bc29e64c.png"></code>
 <code><img width="40" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/15/ab137082ad40cabb23d4baf1500ea6/FPGA-LOGO.png?auto=format%2Ccompress&dpr=1"></code>
