@@ -22,6 +22,7 @@
 <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg/1200px-Adobe_Photoshop_Lightroom_Classic_CC_icon.svg.png"></code>
 <code><img width="40" src="https://www.gns3.com/assets/custom/gns3/images/logo-colour.png"></code>
 <code><img width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/578px-Qt_logo_2016.svg.png"></code>
 </p>
 
 ## 👨‍💻 Languages 
