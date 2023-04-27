@@ -47,4 +47,4 @@
 <a href="https://www.facebook.com/cheuk.kelly"><img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=Facebook&logoColor=white" alt="Facebook"></a></p>
 
 ## Contributions
-https://github.com/feichay10/feichay10/blob/output/github-contribution-grid-snake.svg
+![](https://github.com/feichay10/feichay10/blob/output/github-contribution-grid-snake.svg)
