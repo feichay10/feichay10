@@ -45,6 +45,3 @@
 <a href="https://www.linkedin.com/in/cheuk-kelly-ng-pante-293967158/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin"></a>
 <a href="https://www.instagram.com/chakii10_/?hl=es"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/cheuk.kelly"><img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=Facebook&logoColor=white" alt="Facebook"></a></p>
-
-## 🦾 Contributions
-![](https://github.com/feichay10/feichay10/blob/output/github-contribution-grid-snake.svg)
