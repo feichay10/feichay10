@@ -36,6 +36,7 @@
   <code><img width="40" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/15/ab137082ad40cabb23d4baf1500ea6/FPGA-LOGO.png?auto=format%2Ccompress&dpr=1"></code>
   <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png"></code>
   <code><img width="40" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png"></code>
+  <code><img width="75" src="https://www.pontia.tech/wp-content/uploads/2022/10/sql.webp"></code>
 </p>
 
 ## 🌎 Social Media
