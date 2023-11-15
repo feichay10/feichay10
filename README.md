@@ -21,7 +21,7 @@
   <code><img alt="VMWare"           width="39" src="https://github.com/feichay10/feichay10/blob/main/img/VMware.png"/></code>
   <code><img alt="Drawio"           width="39" src="https://github.com/feichay10/feichay10/blob/main/img/drawio.png"/></code>
   <code><img alt="Lightroom"        width="40" src="https://github.com/feichay10/feichay10/blob/main/img/lightroom.png"/></code>
-  <code><img alt="Wireshark"        width="150" src="https://github.com/feichay10/feichay10/blob/main/img/wireshark.png"/></code                                                                                                  
+  <code><img alt="Wireshark"        width="150" src="https://github.com/feichay10/feichay10/blob/main/img/wireshark.png"/></code>                                                                                                  
   <code><img alt="gns3"             width="40" src="https://github.com/feichay10/feichay10/blob/main/img/gns3.png"/></code>
   <code><img alt="Git"              width="40" src="https://github.com/feichay10/feichay10/blob/main/img/git.png"/></code>
   <code><img alt="FPGAs"            width="40" src="https://github.com/feichay10/feichay10/blob/main/img/fpga.png"/></code>
@@ -33,15 +33,15 @@
 
 ## 👨‍💻 Languages 
 <p align="center">
-  <code><img width="41" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
-  <code><img width="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"></code>
-  <code><img width="96" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1200px-Gnu-bash-logo.svg.png"></code>
-  <code><img width="40" src="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/18799587/image/medium-888dcf9eaba44519efb88612bc29e64c.png"></code>
-  <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png"></code>
-  <code><img width="45" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_verilog_icon_130092.png"></code>
-  <code><img width="40" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png"></code>
-  <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"></code>
-  <code><img width="75" src="https://www.pontia.tech/wp-content/uploads/2022/10/sql.webp"></code>
+  <code><img alt="C++"              width="41" src="https://github.com/feichay10/feichay10/blob/main/img/cpp.png"/></code>
+  <code><img alt="C"                width="36" src="https://github.com/feichay10/feichay10/blob/main/img/c.png"/></code>
+  <code><img alt="Bash "            width="96" src="https://github.com/feichay10/feichay10/blob/main/img/bash.png"/></code>
+  <code><img alt="Assembly"         width="45" src="https://github.com/feichay10/feichay10/blob/main/img/asm.png"/></code>
+  <code><img alt="Ruby"             width="40" src="https://github.com/feichay10/feichay10/blob/main/img/ruby.png"/></code>
+  <code><img alt="Verilog"          width="45" src="https://github.com/feichay10/feichay10/blob/main/img/verilog.png"/></code>
+  <code><img alt="Prolog"           width="40" src="https://github.com/feichay10/feichay10/blob/main/img/prolog.png"/></code>
+  <code><img alt="Python"           width="40" src="https://github.com/feichay10/feichay10/blob/main/img/python.png"/></code>
+  <code><img alt="SQL"              width="75" src="https://github.com/feichay10/feichay10/blob/main/img/sql.webp"/></code
 </p>
 
 ## 🌎 Social Media
