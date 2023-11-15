@@ -38,6 +38,7 @@
   <code><img width="96" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1200px-Gnu-bash-logo.svg.png"></code>
   <code><img width="40" src="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/18799587/image/medium-888dcf9eaba44519efb88612bc29e64c.png"></code>
   <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png"></code>
+  <code><img width="45" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_verilog_icon_130092.png"></code>
   <code><img width="40" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png"></code>
   <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"></code>
   <code><img width="75" src="https://www.pontia.tech/wp-content/uploads/2022/10/sql.webp"></code>
