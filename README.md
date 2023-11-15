@@ -13,23 +13,22 @@
 
 ## 🔨 Tools
 <p align="center">
-  <code><img width="40" src="https://www.freepnglogos.com/uploads/linux-png/linux-logo-logo-brands-for-0.png"></code>
-  <code><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
-  <code><img width="40" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"></code>
-  <code><img width="44" src="https://www.freepnglogos.com/uploads/windows-logo-png/windows-logo-windows-symbol-meaning-history-and-evolution-4.png"></code>
-  <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>  
-  <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></code>
-  <code><img width="39" src="https://upload.wikimedia.org/wikipedia/en/7/7d/VMware_Player_logo.png"></code> 
-  <code><img width="39" src="https://drawio-app.com/wp-content/uploads/2021/05/drawio_logo_RGB_symbol_large.png"></code>
-  <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg/1200px-Adobe_Photoshop_Lightroom_Classic_CC_icon.svg.png"></code>
-  <code><img width="150" src="https://tonyhat.files.wordpress.com/2015/08/bc3a1sicos-18-wireshark-parte-i-blog-191.png"></code>
-  <code><img width="40" src="https://www.gns3.com/assets/custom/gns3/images/logo-colour.png"></code>
-  <code><img width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
-  <code><img width="40" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/15/ab137082ad40cabb23d4baf1500ea6/FPGA-LOGO.png?auto=format%2Ccompress&dpr=1"></code>
-  <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/578px-Qt_logo_2016.svg.png"></code>
-  <code><img width="50" src="https://user-images.githubusercontent.com/72381464/215694197-a1d3b29c-418b-4b57-ba3d-98d57386b963.png"></code>
-  <code><img width="85" src="https://upload.wikimedia.org/wikipedia/commons/2/25/LaTeX_logo.png"></code>
-  <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/200px-Postgresql_elephant.svg.png"></code>
+  <code><img alt="Linux"            width="40" src="https://github.com/feichay10/feichay10/blob/main/img/linux.png"/></code>
+  <code><img alt="Vim"              width="40" src="https://github.com/feichay10/feichay10/blob/main/img/vim.png"/></code>
+  <code><img alt="Windows"          width="44" src="https://github.com/feichay10/feichay10/blob/main/img/windows.png"/></code>
+  <code><img alt="VSC"              width="40" src="https://github.com/feichay10/feichay10/blob/main/img/vsc.png"/></code>
+  <code><img alt="VirtualBox"       width="40" src="https://github.com/feichay10/feichay10/blob/main/img/virtualbox.png"/></code>
+  <code><img alt="VMWare"           width="39" src="https://github.com/feichay10/feichay10/blob/main/img/VMware.png"/></code>
+  <code><img alt="Drawio"           width="39" src="https://github.com/feichay10/feichay10/blob/main/img/drawio.png"/></code>
+  <code><img alt="Lightroom"        width="40" src="https://github.com/feichay10/feichay10/blob/main/img/lightroom.png"/></code>
+  <code><img alt="Wireshark"        width="150" src="https://github.com/feichay10/feichay10/blob/main/img/wireshark.png"/></code                                                                                                  
+  <code><img alt="gns3"             width="40" src="https://github.com/feichay10/feichay10/blob/main/img/gns3.png"/></code>
+  <code><img alt="Git"              width="40" src="https://github.com/feichay10/feichay10/blob/main/img/git.png"/></code>
+  <code><img alt="FPGAs"            width="40" src="https://github.com/feichay10/feichay10/blob/main/img/fpga.png"/></code>
+  <code><img alt="QT"               width="39" src="https://github.com/feichay10/feichay10/blob/main/img/qt.png"/></code>
+  <code><img alt="Markdown"         width="50" src="https://github.com/feichay10/feichay10/blob/main/img/markdown.png"/></code>
+  <code><img alt="Latex"            width="85" src="https://github.com/feichay10/feichay10/blob/main/img/LaTeX.png"/></code>
+  <code><img alt="PostgreSQL"       width="40" src="https://github.com/feichay10/feichay10/blob/main/img/postgresql.png"/></code>
 </p>
 
 ## 👨‍💻 Languages 
