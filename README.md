@@ -26,7 +26,7 @@
   <code><img width="40" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/15/ab137082ad40cabb23d4baf1500ea6/FPGA-LOGO.png?auto=format%2Ccompress&dpr=1"></code>
   <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/578px-Qt_logo_2016.svg.png"></code>
   <code><img width="50" src="https://user-images.githubusercontent.com/72381464/215694197-a1d3b29c-418b-4b57-ba3d-98d57386b963.png"></code>
-  <code><img width="70" src="https://upload.wikimedia.org/wikipedia/commons/2/25/LaTeX_logo.png"></code>
+  <code><img width="85" src="https://upload.wikimedia.org/wikipedia/commons/2/25/LaTeX_logo.png"></code>
   <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/200px-Postgresql_elephant.svg.png"></code>
 </p>
 
