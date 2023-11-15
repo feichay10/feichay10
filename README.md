@@ -18,7 +18,8 @@
   <code><img width="40" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"></code>
   <code><img width="44" src="https://www.freepnglogos.com/uploads/windows-logo-png/windows-logo-windows-symbol-meaning-history-and-evolution-4.png"></code>
   <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>  
-  <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></code> 
+  <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></code>
+  <code><img width="39" src="https://upload.wikimedia.org/wikipedia/en/7/7d/VMware_Player_logo.png"></code> 
   <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg/1200px-Adobe_Photoshop_Lightroom_Classic_CC_icon.svg.png"></code>
   <code><img width="150" src="https://tonyhat.files.wordpress.com/2015/08/bc3a1sicos-18-wireshark-parte-i-blog-191.png"></code>
   <code><img width="40" src="https://www.gns3.com/assets/custom/gns3/images/logo-colour.png"></code>
