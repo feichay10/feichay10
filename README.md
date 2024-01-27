@@ -29,6 +29,8 @@
   <code><img alt="Markdown"         width="50" src="https://github.com/feichay10/feichay10/blob/main/img/markdown.png"/></code>
   <code><img alt="Latex"            width="85" src="https://github.com/feichay10/feichay10/blob/main/img/LaTeX.png"/></code>
   <code><img alt="PostgreSQL"       width="40" src="https://github.com/feichay10/feichay10/blob/main/img/postgresql.png"/></code>
+  <code><img alt="Arduino"       width="40" src="https://github.com/feichay10/feichay10/blob/main/img/arduino.png"/></code>
+
 </p>
 
 ## 👨‍💻 Languages 
