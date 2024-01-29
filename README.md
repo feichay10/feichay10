@@ -36,7 +36,7 @@
   <code><img alt="Metasploit"       width="45" src="https://github.com/feichay10/feichay10/blob/main/img/metasploit.png"/></code>
   <code><img alt="John the Ripper"  width="45" src="https://github.com/feichay10/feichay10/blob/main/img/jtr.webp"/></code>
   <code><img alt="IPTables"         width="40" src="https://github.com/feichay10/feichay10/blob/main/img/IPTables_logo.png"/></code>
-  <code><img alt="openssl"          width="120" src="https://github.com/feichay10/feichay10/blob/main/img/openssl.png"/></code>
+  <code><img alt="openssl"          width="140" src="https://github.com/feichay10/feichay10/blob/main/img/openssl_logo.png"/></code>
 </p>
 
 ## 👨‍💻 Languages 
