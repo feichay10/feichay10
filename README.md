@@ -33,7 +33,10 @@
   <code><img alt="Latex"            width="85" src="https://github.com/feichay10/feichay10/blob/main/img/LaTeX.png"/></code>
   <code><img alt="PostgreSQL"       width="40" src="https://github.com/feichay10/feichay10/blob/main/img/postgresql.png"/></code>
   <code><img alt="Arduino"       width="40" src="https://github.com/feichay10/feichay10/blob/main/img/arduino.png"/></code>
-
+  <code><img alt="Metasploit"       width="40" src="https://github.com/feichay10/feichay10/blob/main/img/metasploit.png"/></code>
+  <code><img alt="John the Ripper"       width="40" src="https://github.com/feichay10/feichay10/blob/main/img/jtr.png"/></code>
+  <code><img alt="IPTables"       width="40" src="https://github.com/feichay10/feichay10/blob/main/img/IPtables.png"/></code>
+  <code><img alt="openssl"       width="40" src="https://github.com/feichay10/feichay10/blob/main/img/openssl.png"/></code>
 </p>
 
 ## 👨‍💻 Languages 
