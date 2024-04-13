@@ -24,7 +24,7 @@
   <code><img alt="VMWare"           width="39" src="https://github.com/feichay10/feichay10/blob/main/img/VMware.png"/></code>
   <code><img alt="Drawio"           width="39" src="https://github.com/feichay10/feichay10/blob/main/img/drawio.png"/></code>
   <code><img alt="Lightroom"        width="40" src="https://github.com/feichay10/feichay10/blob/main/img/lightroom.png"/></code>
-  <code><img alt="Wireshark"        width="150" src="https://github.com/feichay10/feichay10/blob/main/img/wireshark.png"/><code>
+  <code><img alt="Wireshark"        width="150" src="https://github.com/feichay10/feichay10/blob/main/img/wireshark.png"/></code>                                                                                                  
   <code><img alt="gns3"             width="40" src="https://github.com/feichay10/feichay10/blob/main/img/gns3.png"/></code>
   <code><img alt="Git"              width="40" src="https://github.com/feichay10/feichay10/blob/main/img/git.png"/></code>
   <code><img alt="FPGAs"            width="40" src="https://github.com/feichay10/feichay10/blob/main/img/fpga.png"/></code>
@@ -36,10 +36,9 @@
   <code><img alt="Arduino"          width="40" src="https://github.com/feichay10/feichay10/blob/main/img/arduino.png"/></code>
   <code><img alt="Metasploit"       width="45" src="https://github.com/feichay10/feichay10/blob/main/img/metasploit.png"/></code>
   <code><img alt="John the Ripper"  width="45" src="https://github.com/feichay10/feichay10/blob/main/img/jtr.webp"/></code>
-  <code><img alt="Notion"           width="40" src="https://github.com/feichay10/feichay10/blob/main/img/notion.png"/></code>
   <code><img alt="IPTables"         width="40" src="https://github.com/feichay10/feichay10/blob/main/img/IPTables_logo.png"/></code>
   <code><img alt="openssl"          width="140" src="https://github.com/feichay10/feichay10/blob/main/img/openssl_logo.png"/></code>
-  <code><img alt="Jupyter Noteboot"          width="140" src="https://github.com/feichay10/feichay10/blob/main/img/jupyter_notebook.webp"/></code>
+  <code><img alt="Notion"          width="40" src="https://github.com/feichay10/feichay10/blob/main/img/notion.png"/></code>
 </p>
 
 ## 👨‍💻 Languages 
