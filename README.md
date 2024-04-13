@@ -24,10 +24,9 @@
   <code><img alt="VMWare"           width="39" src="https://github.com/feichay10/feichay10/blob/main/img/VMware.png"/></code>
   <code><img alt="Drawio"           width="39" src="https://github.com/feichay10/feichay10/blob/main/img/drawio.png"/></code>
   <code><img alt="Lightroom"        width="40" src="https://github.com/feichay10/feichay10/blob/main/img/lightroom.png"/></code>
-  <code><img alt="Wireshark"        width="150" src="https://github.com/feichay10/feichay10/blob/main/img/wireshark.png"/>< code>                                                                                                  
+  <code><img alt="Wireshark"        width="150" src="https://github.com/feichay10/feichay10/blob/main/img/wireshark.png"/><code>
   <code><img alt="gns3"             width="40" src="https://github.com/feichay10/feichay10/blob/main/img/gns3.png"/></code>
   <code><img alt="Git"              width="40" src="https://github.com/feichay10/feichay10/blob/main/img/git.png"/></code>
-  <code><img alt="Notion"           width="40" src="https://github.com/feichay10/feichay10/blob/main/img/notion.png"/></code>
   <code><img alt="FPGAs"            width="40" src="https://github.com/feichay10/feichay10/blob/main/img/fpga.png"/></code>
   <code><img alt="QT"               width="39" src="https://github.com/feichay10/feichay10/blob/main/img/qt.png"/></code>
   <code><img alt="Markdown"         width="50" src="https://github.com/feichay10/feichay10/blob/main/img/markdown.png"/></code>
