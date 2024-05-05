@@ -39,6 +39,7 @@
   <code><img alt="IPTables"         width="40" src="https://github.com/feichay10/feichay10/blob/main/img/IPTables_logo.png"/></code>
   <code><img alt="openssl"          width="140" src="https://github.com/feichay10/feichay10/blob/main/img/openssl_logo.png"/></code>
   <code><img alt="Notion"          width="40" src="https://github.com/feichay10/feichay10/blob/main/img/notion.png"/></code>
+  <code><img alt="Jupyter Notebook"          width="40" src="https://github.com/feichay10/feichay10/blob/main/img/jupyter_notebook.png"/></code>
 </p>
 
 ## 👨‍💻 Languages 
