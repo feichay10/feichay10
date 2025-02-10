@@ -15,6 +15,7 @@
 </p>
 
 ## 🔨 Tools
+
 <p align="center">
   <code><img alt="Linux"            width="40" src="https://github.com/feichay10/feichay10/blob/main/img/linux.png"/></code>
   <code><img alt="Vim"              width="40" src="https://github.com/feichay10/feichay10/blob/main/img/vim.png"/></code>
@@ -38,11 +39,13 @@
   <code><img alt="John the Ripper"  width="45" src="https://github.com/feichay10/feichay10/blob/main/img/jtr.webp"/></code>
   <code><img alt="IPTables"         width="40" src="https://github.com/feichay10/feichay10/blob/main/img/IPTables_logo.png"/></code>
   <code><img alt="openssl"          width="140" src="https://github.com/feichay10/feichay10/blob/main/img/openssl_logo.png"/></code>
-  <code><img alt="Notion"          width="40" src="https://github.com/feichay10/feichay10/blob/main/img/notion.png"/></code>
-  <code><img alt="Jupyter Notebook"          width="40" src="https://github.com/feichay10/feichay10/blob/main/img/jupyter_notebook.png"/></code>
+  <code><img alt="Notion"           width="40" src="https://github.com/feichay10/feichay10/blob/main/img/notion.png"/></code>
+  <code><img alt="Jupyter Notebook" width="40" src="https://github.com/feichay10/feichay10/blob/main/img/jupyter_notebook.png"/></code>
+  <code><img alt="Tableau"          width="40" src="https://github.com/feichay10/feichay10/blob/main/img/tableau.png"/></code>
 </p>
 
-## 👨‍💻 Languages 
+## 👨‍💻 Languages
+
 <p align="center">
   <code><img alt="C++"              width="41" src="https://github.com/feichay10/feichay10/blob/main/img/cpp.png"/></code>
   <code><img alt="C"                width="36" src="https://github.com/feichay10/feichay10/blob/main/img/c.png"/></code>
@@ -56,6 +59,7 @@
 </p>
 
 ## 🌎 Social Media
+
 <p align="center">
   <a href="https://github.com/feichay10"><img src="https://img.shields.io/badge/GitHub-%23171515.svg?style=flat&logo=Github&logoColor=white" alt="GitHub"></a>
   <a href="https://twitter.com/chakii10_"><img src="https://img.shields.io/badge/Twitter-%23FFFFFF.svg?style=flat&logo=Twitter&logoColor=1DA1F2" alt="Twitter URL"></a>
