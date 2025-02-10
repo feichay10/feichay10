@@ -41,7 +41,7 @@
   <code><img alt="openssl"          width="140" src="https://github.com/feichay10/feichay10/blob/main/img/openssl_logo.png"/></code>
   <code><img alt="Notion"           width="40" src="https://github.com/feichay10/feichay10/blob/main/img/notion.png"/></code>
   <code><img alt="Jupyter Notebook" width="40" src="https://github.com/feichay10/feichay10/blob/main/img/jupyter_notebook.png"/></code>
-  <code><img alt="Tableau"          width="40" src="https://github.com/feichay10/feichay10/blob/main/img/tableau.png"/></code>
+  <code><img alt="Tableau"          width="150" src="https://github.com/feichay10/feichay10/blob/main/img/tableau.png"/></code>
 </p>
 
 ## 👨‍💻 Languages
