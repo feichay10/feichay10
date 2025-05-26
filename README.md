@@ -43,6 +43,7 @@
   <code><img alt="Tableau"          width="180" src="https://github.com/feichay10/feichay10/blob/main/img/tableau.png"/></code>
   <code><img alt="Docker"          width="60" src="https://github.com/feichay10/feichay10/blob/main/img/docker.png"/></code>
   <code><img alt="Azure"          width="45" src="https://github.com/feichay10/feichay10/blob/main/img/azure.png"/></code>
+  <code><img alt="Mikrotik"          width="45" src="https://github.com/feichay10/feichay10/blob/main/img/mikrotik.png"/></code>
 </p>
 
 ## 💻 Programming Languages
