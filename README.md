@@ -19,7 +19,7 @@
 
 <p align="center">
   <code><img alt="Linux"            width="40" src="https://github.com/feichay10/feichay10/blob/main/img/linux.png"/></code>
-  <code><img alt="Oh My zsh"          width="180" src="https://github.com/feichay10/feichay10/blob/main/img/oh_my_zsh.png"/></code>
+  <code><img alt="Oh My zsh"          width="60" src="https://github.com/feichay10/feichay10/blob/main/img/oh_my_zsh.png"/></code>
   <code><img alt="Vim"              width="40" src="https://github.com/feichay10/feichay10/blob/main/img/vim.png"/></code>
   <code><img alt="Windows"          width="44" src="https://github.com/feichay10/feichay10/blob/main/img/windows.png"/></code>
   <code><img alt="VSC"              width="40" src="https://github.com/feichay10/feichay10/blob/main/img/vsc.png"/></code>
@@ -32,7 +32,7 @@
   <code><img alt="FPGAs"            width="40" src="https://github.com/feichay10/feichay10/blob/main/img/fpga.png"/></code>
   <code><img alt="QT"               width="39" src="https://github.com/feichay10/feichay10/blob/main/img/qt.png"/></code>
   <code><img alt="Markdown"         width="50" src="https://github.com/feichay10/feichay10/blob/main/img/markdown.png"/></code>
-  <code><img alt="Latex"            width="85" src="https://github.com/feichay10/feichay10/blob/main/img/LaTeX.png"/></code>
+  <code><img alt="Latex"            width="50" src="https://github.com/feichay10/feichay10/blob/main/img/LaTeX.png"/></code>
   <code><img alt="PostgreSQL"       width="40" src="https://github.com/feichay10/feichay10/blob/main/img/postgresql.png"/></code>
   <code><img alt="MySQL"            width="40" src="https://github.com/feichay10/feichay10/blob/main/img/mysql.png"/></code>
   <code><img alt="Metasploit"       width="45" src="https://github.com/feichay10/feichay10/blob/main/img/metasploit.png"/></code>
