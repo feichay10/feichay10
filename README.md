@@ -19,6 +19,7 @@
 
 <p align="center">
   <code><img alt="Linux"            width="40" src="https://github.com/feichay10/feichay10/blob/main/img/linux.png"/></code>
+  <code><img alt="Oh My zsh"          width="180" src="https://github.com/feichay10/feichay10/blob/main/img/oh_my_zsh.png"/></code>
   <code><img alt="Vim"              width="40" src="https://github.com/feichay10/feichay10/blob/main/img/vim.png"/></code>
   <code><img alt="Windows"          width="44" src="https://github.com/feichay10/feichay10/blob/main/img/windows.png"/></code>
   <code><img alt="VSC"              width="40" src="https://github.com/feichay10/feichay10/blob/main/img/vsc.png"/></code>
