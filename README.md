@@ -40,8 +40,8 @@
   <code><img alt="openssl"          width="140" src="https://github.com/feichay10/feichay10/blob/main/img/openssl_logo.png"/></code>
   <code><img alt="Jupyter Notebook" width="40" src="https://github.com/feichay10/feichay10/blob/main/img/jupyter_notebook.png"/></code>
   <code><img alt="Tableau"          width="180" src="https://github.com/feichay10/feichay10/blob/main/img/tableau.png"/></code>
-  <code><img alt="Docker"          width="180" src="https://github.com/feichay10/feichay10/blob/main/img/docker.png"/></code>
-  <code><img alt="Azure"          width="180" src="https://github.com/feichay10/feichay10/blob/main/img/azure.png"/></code>
+  <code><img alt="Docker"          width="60" src="https://github.com/feichay10/feichay10/blob/main/img/docker.png"/></code>
+  <code><img alt="Azure"          width="45" src="https://github.com/feichay10/feichay10/blob/main/img/azure.png"/></code>
 </p>
 
 ## 💻 Programming Languages
