@@ -18,46 +18,46 @@
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <code><img alt="Linux"            width="40" src="https://github.com/feichay10/feichay10/blob/main/img/linux.png"/></code>
-  <code><img alt="Oh My zsh"          width="60" src="https://github.com/feichay10/feichay10/blob/main/img/oh_my_zsh.png"/></code>
-  <code><img alt="Vim"              width="40" src="https://github.com/feichay10/feichay10/blob/main/img/vim.png"/></code>
-  <code><img alt="Windows"          width="44" src="https://github.com/feichay10/feichay10/blob/main/img/windows.png"/></code>
-  <code><img alt="VSC"              width="40" src="https://github.com/feichay10/feichay10/blob/main/img/vsc.png"/></code>
-  <code><img alt="VirtualBox"       width="40" src="https://github.com/feichay10/feichay10/blob/main/img/virtualbox.png"/></code>
-  <code><img alt="VMWare"           width="39" src="https://github.com/feichay10/feichay10/blob/main/img/VMware.png"/></code>
-  <code><img alt="Drawio"           width="39" src="https://github.com/feichay10/feichay10/blob/main/img/drawio.png"/></code>
-  <code><img alt="Wireshark"        width="150" src="https://github.com/feichay10/feichay10/blob/main/img/wireshark.png"/></code>                                                                                                  
-  <code><img alt="gns3"             width="40" src="https://github.com/feichay10/feichay10/blob/main/img/gns3.png"/></code>
-  <code><img alt="Git"              width="40" src="https://github.com/feichay10/feichay10/blob/main/img/git.png"/></code>
-  <code><img alt="FPGAs"            width="40" src="https://github.com/feichay10/feichay10/blob/main/img/fpga.png"/></code>
-  <code><img alt="QT"               width="39" src="https://github.com/feichay10/feichay10/blob/main/img/qt.png"/></code>
-  <code><img alt="Markdown"         width="50" src="https://github.com/feichay10/feichay10/blob/main/img/markdown.png"/></code>
-  <code><img alt="Latex"            width="50" src="https://github.com/feichay10/feichay10/blob/main/img/LaTeX.png"/></code>
-  <code><img alt="PostgreSQL"       width="40" src="https://github.com/feichay10/feichay10/blob/main/img/postgresql.png"/></code>
-  <code><img alt="MySQL"            width="40" src="https://github.com/feichay10/feichay10/blob/main/img/mysql.png"/></code>
-  <code><img alt="Metasploit"       width="45" src="https://github.com/feichay10/feichay10/blob/main/img/metasploit.png"/></code>
-  <code><img alt="John the Ripper"  width="45" src="https://github.com/feichay10/feichay10/blob/main/img/jtr.webp"/></code>
-  <code><img alt="IPTables"         width="40" src="https://github.com/feichay10/feichay10/blob/main/img/IPTables_logo.png"/></code>
-  <code><img alt="openssl"          width="140" src="https://github.com/feichay10/feichay10/blob/main/img/openssl_logo.png"/></code>
-  <code><img alt="Jupyter Notebook" width="40" src="https://github.com/feichay10/feichay10/blob/main/img/jupyter_notebook.png"/></code>
-  <code><img alt="Tableau"          width="180" src="https://github.com/feichay10/feichay10/blob/main/img/tableau.png"/></code>
+  <code><img alt="Azure"           width="45" src="https://github.com/feichay10/feichay10/blob/main/img/azure.png"/></code>
   <code><img alt="Docker"          width="60" src="https://github.com/feichay10/feichay10/blob/main/img/docker.png"/></code>
-  <code><img alt="Azure"          width="45" src="https://github.com/feichay10/feichay10/blob/main/img/azure.png"/></code>
-  <code><img alt="Mikrotik"          width="45" src="https://github.com/feichay10/feichay10/blob/main/img/mikrotik.png"/></code>
+  <code><img alt="Drawio"          width="39" src="https://github.com/feichay10/feichay10/blob/main/img/drawio.png"/></code>
+  <code><img alt="FPGAs"           width="40" src="https://github.com/feichay10/feichay10/blob/main/img/fpga.png"/></code>
+  <code><img alt="Git"             width="40" src="https://github.com/feichay10/feichay10/blob/main/img/git.png"/></code>
+  <code><img alt="gns3"            width="40" src="https://github.com/feichay10/feichay10/blob/main/img/gns3.png"/></code>
+  <code><img alt="IPTables"        width="40" src="https://github.com/feichay10/feichay10/blob/main/img/IPTables_logo.png"/></code>
+  <code><img alt="John the Ripper" width="45" src="https://github.com/feichay10/feichay10/blob/main/img/jtr.webp"/></code>
+  <code><img alt="Jupyter Notebook" width="40" src="https://github.com/feichay10/feichay10/blob/main/img/jupyter_notebook.png"/></code>
+  <code><img alt="Latex"           width="50" src="https://github.com/feichay10/feichay10/blob/main/img/LaTeX.png"/></code>
+  <code><img alt="Linux"           width="40" src="https://github.com/feichay10/feichay10/blob/main/img/linux.png"/></code>
+  <code><img alt="Markdown"        width="50" src="https://github.com/feichay10/feichay10/blob/main/img/markdown.png"/></code>
+  <code><img alt="Metasploit"      width="45" src="https://github.com/feichay10/feichay10/blob/main/img/metasploit.png"/></code>
+  <code><img alt="Mikrotik"        width="45" src="https://github.com/feichay10/feichay10/blob/main/img/mikrotik.png"/></code>
+  <code><img alt="MySQL"           width="40" src="https://github.com/feichay10/feichay10/blob/main/img/mysql.png"/></code>
+  <code><img alt="Oh My zsh"       width="60" src="https://github.com/feichay10/feichay10/blob/main/img/oh_my_zsh.png"/></code>
+  <code><img alt="openssl"         width="140" src="https://github.com/feichay10/feichay10/blob/main/img/openssl_logo.png"/></code>
+  <code><img alt="PostgreSQL"      width="40" src="https://github.com/feichay10/feichay10/blob/main/img/postgresql.png"/></code>
+  <code><img alt="QT"              width="39" src="https://github.com/feichay10/feichay10/blob/main/img/qt.png"/></code>
+  <code><img alt="Tableau"         width="180" src="https://github.com/feichay10/feichay10/blob/main/img/tableau.png"/></code>
+  <code><img alt="Vim"             width="40" src="https://github.com/feichay10/feichay10/blob/main/img/vim.png"/></code>
+  <code><img alt="VirtualBox"      width="40" src="https://github.com/feichay10/feichay10/blob/main/img/virtualbox.png"/></code>
+  <code><img alt="VMWare"          width="39" src="https://github.com/feichay10/feichay10/blob/main/img/VMware.png"/></code>
+  <code><img alt="VSC"             width="40" src="https://github.com/feichay10/feichay10/blob/main/img/vsc.png"/></code>
+  <code><img alt="Wireshark"       width="150" src="https://github.com/feichay10/feichay10/blob/main/img/wireshark.png"/></code>
+  <code><img alt="Windows"         width="44" src="https://github.com/feichay10/feichay10/blob/main/img/windows.png"/></code>
 </p>
 
 ## 💻 Programming Languages
 
 <p align="center">
-  <code><img alt="C++"              width="41" src="https://github.com/feichay10/feichay10/blob/main/img/cpp.png"/></code>
-  <code><img alt="C"                width="36" src="https://github.com/feichay10/feichay10/blob/main/img/c.png"/></code>
-  <code><img alt="Bash "            width="96" src="https://github.com/feichay10/feichay10/blob/main/img/bash.png"/></code>
   <code><img alt="Assembly"         width="45" src="https://github.com/feichay10/feichay10/blob/main/img/asm.png"/></code>
-  <code><img alt="Ruby"             width="40" src="https://github.com/feichay10/feichay10/blob/main/img/ruby.png"/></code>
-  <code><img alt="Verilog"          width="45" src="https://github.com/feichay10/feichay10/blob/main/img/verilog.png"/></code>
+  <code><img alt="Bash"             width="96" src="https://github.com/feichay10/feichay10/blob/main/img/bash.png"/></code>
+  <code><img alt="C"                width="36" src="https://github.com/feichay10/feichay10/blob/main/img/c.png"/></code>
+  <code><img alt="C++"              width="41" src="https://github.com/feichay10/feichay10/blob/main/img/cpp.png"/></code>
   <code><img alt="Prolog"           width="40" src="https://github.com/feichay10/feichay10/blob/main/img/prolog.png"/></code>
   <code><img alt="Python"           width="40" src="https://github.com/feichay10/feichay10/blob/main/img/python.png"/></code>
+  <code><img alt="Ruby"             width="40" src="https://github.com/feichay10/feichay10/blob/main/img/ruby.png"/></code>
   <code><img alt="SQL"              width="75" src="https://github.com/feichay10/feichay10/blob/main/img/sql.webp"/></code>
+  <code><img alt="Verilog"          width="45" src="https://github.com/feichay10/feichay10/blob/main/img/verilog.png"/></code>
 </p>
 
 ## 🌐 Social Media
