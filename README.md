@@ -9,7 +9,7 @@
   </a>
   
   </br></br>
-  - 🏛️ I’m currently studying **Computer Engineering** at **Universidad de La Laguna**.
+  - 🏛️ I hold a degree in Computer Engineering from Universidad de La Laguna.
   - 🌱 I’m passionate about **network design**, **system administration**, **cybersecurity**, and **data science**.
   - 🔭 I’m constantly exploring tools and technologies to enhance my skills in these areas.
   </br></br>
