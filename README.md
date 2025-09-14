@@ -18,7 +18,6 @@
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <code><img alt="Azure"           width="45" src="https://github.com/feichay10/feichay10/blob/main/img/azure.png"/></code>
   <code><img alt="Docker"          width="60" src="https://github.com/feichay10/feichay10/blob/main/img/docker.png"/></code>
   <code><img alt="Drawio"          width="39" src="https://github.com/feichay10/feichay10/blob/main/img/drawio.png"/></code>
   <code><img alt="FPGAs"           width="40" src="https://github.com/feichay10/feichay10/blob/main/img/fpga.png"/></code>
